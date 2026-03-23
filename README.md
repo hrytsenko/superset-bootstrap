@@ -3,8 +3,8 @@
 ## Goals
 
 1. Run Superset with minimal Docker setup.
-2. Support export and import of dashboards.
-3. Use external database for analytics data.
+2. Import dashboards into Superset.
+3. Import analytics data into an external database.
 
 ## Approaches
 
