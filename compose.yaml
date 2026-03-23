@@ -1,4 +1,4 @@
-name: superset
+name: superset-bootstrap
 
 x-superset-image: &superset-image
   image: local/superset
