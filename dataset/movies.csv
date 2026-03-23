@@ -1,0 +1,251 @@
+rank,name,year,rating,genre,certificate
+1,The Shawshank Redemption,1994,9.3,Drama,R
+2,The Godfather,1972,9.2,Crime,R
+3,The Dark Knight,2008,9,Action,PG-13
+4,The Godfather Part II,1974,9,Crime,R
+5,12 Angry Men,1957,9,Crime,Approved
+6,Schindler's List,1993,9,Biography,R
+7,The Lord of the Rings: The Return of the King,2003,9,Action,PG-13
+8,Pulp Fiction,1994,8.9,Crime,R
+9,The Lord of the Rings: The Fellowship of the Ring,2001,8.8,Action,PG-13
+10,"The Good, the Bad and the Ugly",1966,8.8,Adventure,Approved
+11,Forrest Gump,1994,8.8,Drama,PG-13
+12,Fight Club,1999,8.8,Drama,R
+13,The Lord of the Rings: The Two Towers,2002,8.8,Action,PG-13
+14,Inception,2010,8.8,Action,PG-13
+15,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,Action,PG
+16,The Matrix,1999,8.7,Action,R
+17,Goodfellas,1990,8.7,Biography,R
+18,One Flew Over the Cuckoo's Nest,1975,8.7,Drama,18+
+19,Se7en,1995,8.6,Crime,R
+20,Seven Samurai,1954,8.6,Action,Not Rated
+21,It's a Wonderful Life,1946,8.6,Drama,PG
+22,The Silence of the Lambs,1991,8.6,Crime,R
+23,City of God,2002,8.6,Crime,R
+24,Saving Private Ryan,1998,8.6,Drama,R
+25,Interstellar,2014,8.6,Adventure,PG-13
+26,Life Is Beautiful,1997,8.6,Comedy,PG-13
+27,The Green Mile,1999,8.6,Crime,R
+28,Star Wars: Episode IV - A New Hope,1977,8.6,Action,PG
+29,Terminator 2: Judgment Day,1991,8.6,Action,R
+30,Back to the Future,1985,8.5,Adventure,PG
+31,Spirited Away,2001,8.6,Animation,PG
+32,The Pianist,2002,8.5,Biography,R
+33,Psycho,1960,8.5,Horror,R
+34,Parasite,2019,8.5,Drama,R
+35,Léon: The Professional,1994,8.5,Action,R
+36,The Lion King,1994,8.5,Animation,G
+37,Gladiator,2000,8.5,Action,R
+38,American History X,1998,8.5,Crime,R
+39,The Departed,2006,8.5,Crime,R
+40,The Usual Suspects,1995,8.5,Crime,R
+41,The Prestige,2006,8.5,Drama,PG-13
+42,Whiplash,2014,8.5,Drama,R
+43,Casablanca,1942,8.5,Drama,PG
+44,Grave of the Fireflies,1988,8.5,Animation,Not Rated
+45,Harakiri,1962,8.6,Action,Not Rated
+46,The Intouchables,2011,8.5,Biography,R
+47,Modern Times,1936,8.5,Comedy,G
+48,Once Upon a Time in the West,1968,8.5,Western,PG-13
+49,Rear Window,1954,8.5,Mystery,PG
+50,Cinema Paradiso,1988,8.5,Drama,PG
+51,Alien,1979,8.5,Horror,R
+52,City Lights,1931,8.5,Comedy,G
+53,Apocalypse Now,1979,8.5,Drama,R
+54,Memento,2000,8.4,Mystery,R
+55,Django Unchained,2012,8.4,Drama,R
+56,Indiana Jones and the Raiders of the Lost Ark,1981,8.4,Action,PG
+57,WALL·E,2008,8.4,Animation,G
+58,The Lives of Others,2006,8.4,Drama,R
+59,Sunset Blvd.,1950,8.4,Drama,Passed
+60,Paths of Glory,1957,8.4,Drama,Approved
+61,The Shining,1980,8.4,Drama,R
+62,The Great Dictator,1940,8.4,Comedy,G
+63,Avengers: Infinity War,2018,8.4,Action,PG-13
+64,Witness for the Prosecution,1957,8.4,Crime,Approved
+65,Aliens,1986,8.4,Action,R
+66,Spider-Man: Into the Spider-Verse,2018,8.4,Animation,PG
+67,American Beauty,1999,8.4,Drama,R
+68,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.4,Comedy,PG
+69,The Dark Knight Rises,2012,8.4,Action,PG-13
+70,Oldboy,2003,8.4,Action,R
+71,Inglourious Basterds,2009,8.3,Adventure,R
+72,Amadeus,1984,8.4,Biography,PG
+73,Coco,2017,8.4,Animation,PG
+74,Toy Story,1995,8.3,Animation,G
+75,Joker,2019,8.4,Crime,R
+76,Braveheart,1995,8.4,Biography,R
+77,The Boat,1981,8.4,Drama,Not Available
+78,Avengers: Endgame,2019,8.4,Action,PG-13
+79,Princess Mononoke,1997,8.4,Animation,PG-13
+80,Once Upon a Time in America,1984,8.3,Crime,R
+81,Good Will Hunting,1997,8.3,Drama,R
+82,Your Name.,2016,8.4,Animation,TV-PG
+83,3 Idiots,2009,8.4,Comedy,PG-13
+84,Singin' in the Rain,1952,8.3,Comedy,G
+85,Requiem for a Dream,2000,8.3,Drama,Unrated
+86,Toy Story 3,2010,8.3,Animation,G
+87,High and Low,1963,8.4,Crime,Not Rated
+88,Capernaum,2018,8.4,Drama,R
+89,Star Wars: Episode VI - Return of the Jedi,1983,8.3,Action,PG
+90,Eternal Sunshine of the Spotless Mind,2004,8.3,Drama,R
+91,2001: A Space Odyssey,1968,8.3,Adventure,G
+92,Reservoir Dogs,1992,8.3,Crime,R
+93,Come and See,1985,8.4,Drama,Not Rated
+94,The Hunt,2012,8.3,Drama,R
+95,Citizen Kane,1941,8.3,Drama,PG
+96,M,1931,8.3,Crime,Passed
+97,Lawrence of Arabia,1962,8.3,Adventure,Approved
+98,North by Northwest,1959,8.3,Action,Approved
+99,Vertigo,1958,8.3,Mystery,PG
+100,Ikiru,1952,8.3,Drama,Not Rated
+101,Amélie,2001,8.3,Comedy,R
+102,The Apartment,1960,8.3,Comedy,Approved
+103,A Clockwork Orange,1971,8.3,Crime,X
+104,Double Indemnity,1944,8.3,Crime,Passed
+105,Full Metal Jacket,1987,8.3,Drama,R
+106,Top Gun: Maverick,2022,8.3,Action,PG-13
+107,Scarface,1983,8.3,Crime,R
+108,Hamilton,2020,8.4,Biography,PG-13
+109,Incendies,2010,8.3,Drama,R
+110,To Kill a Mockingbird,1962,8.3,Crime,Approved
+111,Heat,1995,8.3,Action,R
+112,The Sting,1973,8.3,Comedy,PG
+113,Up,2009,8.3,Animation,PG
+114,A Separation,2011,8.3,Drama,PG-13
+115,Metropolis,1927,8.3,Drama,Not Rated
+116,Taxi Driver,1976,8.2,Crime,R
+117,L.A. Confidential,1997,8.2,Crime,R
+118,Die Hard,1988,8.2,Action,R
+119,Snatch,2000,8.2,Comedy,R
+120,Indiana Jones and the Last Crusade,1989,8.2,Action,PG-13
+121,Bicycle Thieves,1948,8.3,Drama,Not Rated
+122,Like Stars on Earth,2007,8.3,Drama,PG
+123,1917,2019,8.2,Action,R
+124,Downfall,2004,8.2,Biography,R
+125,Dangal,2016,8.3,Action,Not Rated
+126,For a Few Dollars More,1965,8.2,Western,R
+127,Batman Begins,2005,8.2,Action,PG-13
+128,The Kid,1921,8.3,Comedy,Passed
+129,Some Like It Hot,1959,8.2,Comedy,Passed
+130,The Father,2020,8.2,Drama,PG-13
+131,All About Eve,1950,8.2,Drama,Passed
+132,The Wolf of Wall Street,2013,8.2,Biography,R
+133,Green Book,2018,8.2,Biography,PG-13
+134,Judgment at Nuremberg,1961,8.3,Drama,Approved
+135,Casino,1995,8.2,Crime,R
+136,Ran,1985,8.2,Action,R
+137,Pan's Labyrinth,2006,8.2,Drama,R
+138,The Truman Show,1998,8.2,Comedy,PG
+139,There Will Be Blood,2007,8.2,Drama,R
+140,Unforgiven,1992,8.2,Drama,R
+141,The Sixth Sense,1999,8.2,Drama,PG-13
+142,Shutter Island,2010,8.2,Mystery,R
+143,A Beautiful Mind,2001,8.2,Biography,PG-13
+144,Jurassic Park,1993,8.2,Action,PG-13
+145,Yojimbo,1961,8.2,Action,Not Rated
+146,The Treasure of the Sierra Madre,1948,8.2,Adventure,Passed
+147,Monty Python and the Holy Grail,1975,8.2,Adventure,PG
+148,The Great Escape,1963,8.2,Adventure,Approved
+149,No Country for Old Men,2007,8.2,Crime,R
+150,Spider-Man: No Way Home,2021,8.2,Action,PG-13
+151,Kill Bill: Vol. 1,2003,8.2,Action,R
+152,Rashomon,1950,8.2,Crime,Not Rated
+153,The Thing,1982,8.2,Horror,R
+154,Finding Nemo,2003,8.2,Animation,G
+155,The Elephant Man,1980,8.2,Biography,PG
+156,Chinatown,1974,8.2,Drama,R
+157,Raging Bull,1980,8.2,Biography,R
+158,V for Vendetta,2005,8.2,Action,R
+159,Gone with the Wind,1939,8.2,Drama,Passed
+160,"Lock, Stock and Two Smoking Barrels",1998,8.2,Action,R
+161,Inside Out,2015,8.2,Animation,PG
+162,Dial M for Murder,1954,8.2,Crime,PG
+163,The Secret in Their Eyes,2009,8.2,Drama,R
+164,Howl's Moving Castle,2004,8.2,Animation,PG
+165,"Three Billboards Outside Ebbing, Missouri",2017,8.1,Comedy,R
+166,The Bridge on the River Kwai,1957,8.2,Adventure,PG
+167,Trainspotting,1996,8.1,Drama,R
+168,Prisoners,2013,8.1,Crime,R
+169,Warrior,2011,8.2,Action,PG-13
+170,Fargo,1996,8.1,Crime,R
+171,Gran Torino,2008,8.1,Drama,R
+172,My Neighbor Totoro,1988,8.1,Animation,G
+173,Catch Me If You Can,2002,8.1,Biography,PG-13
+174,Million Dollar Baby,2004,8.1,Drama,PG-13
+175,Children of Heaven,1997,8.2,Drama,PG
+176,Blade Runner,1982,8.1,Action,R
+177,The Gold Rush,1925,8.1,Adventure,Passed
+178,Before Sunrise,1995,8.1,Drama,R
+179,12 Years a Slave,2013,8.1,Biography,R
+180,Klaus,2019,8.2,Animation,PG
+181,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,Adventure,PG-13
+182,On the Waterfront,1954,8.1,Crime,Approved
+183,Ben-Hur,1959,8.1,Adventure,G
+184,Gone Girl,2014,8.1,Drama,R
+185,The Grand Budapest Hotel,2014,8.1,Adventure,R
+186,Wild Strawberries,1957,8.1,Drama,Not Rated
+187,The General,1926,8.1,Action,Passed
+188,The Third Man,1949,8.1,Film-Noir,Approved
+189,In the Name of the Father,1993,8.1,Biography,R
+190,The Deer Hunter,1978,8.1,Drama,R
+191,Barry Lyndon,1975,8.1,Adventure,PG
+192,Hacksaw Ridge,2016,8.1,Biography,R
+193,The Wages of Fear,1953,8.2,Adventure,Not Rated
+194,Memories of Murder,2003,8.1,Crime,Not Rated
+195,Sherlock Jr.,1924,8.2,Action,Passed
+196,Wild Tales,2014,8.1,Comedy,R
+197,Mr. Smith Goes to Washington,1939,8.1,Comedy,Passed
+198,Mad Max: Fury Road,2015,8.1,Action,R
+199,The Seventh Seal,1957,8.1,Drama,Not Rated
+200,Mary and Max,2009,8.1,Animation,Not Rated
+201,How to Train Your Dragon,2010,8.1,Animation,PG
+202,Room,2015,8.1,Drama,R
+203,"Monsters, Inc.",2001,8.1,Animation,G
+204,Jaws,1975,8.1,Adventure,PG
+205,Dead Poets Society,1989,8.1,Comedy,PG
+206,The Big Lebowski,1998,8.1,Comedy,R
+207,Tokyo Story,1953,8.2,Drama,Not Rated
+208,The Passion of Joan of Arc,1928,8.2,Biography,Passed
+209,Hotel Rwanda,2004,8.1,Biography,PG-13
+210,Ford v Ferrari,2019,8.1,Action,PG-13
+211,Rocky,1976,8.1,Drama,PG
+212,Platoon,1986,8.1,Drama,R
+213,Ratatouille,2007,8.1,Animation,G
+214,Spotlight,2015,8.1,Biography,R
+215,The Terminator,1984,8.1,Action,R
+216,Logan,2017,8.1,Action,R
+217,Stand by Me,1986,8.1,Adventure,13+
+218,Rush,2013,8.1,Action,R
+219,Network,1976,8.1,Drama,R
+220,Into the Wild,2007,8.1,Adventure,R
+221,Before Sunset,2004,8.1,Drama,R
+222,The Wizard of Oz,1939,8.1,Adventure,G
+223,Pather Panchali,1955,8.3,Drama,Not Rated
+224,Groundhog Day,1993,8.1,Comedy,PG
+225,The Best Years of Our Lives,1946,8.1,Drama,Approved
+226,The Exorcist,1973,8.1,Horror,R
+227,The Incredibles,2004,8,Animation,PG
+228,To Be or Not to Be,1942,8.2,Comedy,Passed
+229,La haine,1995,8.1,Crime,Not Rated
+230,The Battle of Algiers,1966,8.1,Drama,Not Rated
+231,Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.1,Action,PG-13
+232,Hachi: A Dog's Tale,2009,8.1,Biography,G
+233,The Grapes of Wrath,1940,8.1,Drama,Passed
+234,Jai Bhim,2021,8.8,Crime,TV-MA
+235,My Father and My Son,2005,8.2,Drama,Not Rated
+236,Amores Perros,2000,8.1,Drama,R
+237,Rebecca,1940,8.1,Drama,Approved
+238,Cool Hand Luke,1967,8.1,Crime,GP
+239,The Handmaiden,2016,8.1,Drama,Not Rated
+240,The 400 Blows,1959,8.1,Crime,Not Rated
+241,The Sound of Music,1965,8.1,Biography,G
+242,It Happened One Night,1934,8.1,Comedy,Passed
+243,Persona,1966,8.1,Drama,Not Rated
+244,Life of Brian,1979,8,Comedy,R
+245,The Iron Giant,1999,8.1,Animation,PG
+246,The Help,2011,8.1,Drama,PG-13
+247,Dersu Uzala,1975,8.2,Adventure,G
+248,Aladdin,1992,8,Animation,G
+249,Gandhi,1982,8,Biography,PG
+250,Dances with Wolves,1990,8,Adventure,PG-13

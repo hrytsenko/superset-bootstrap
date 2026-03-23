@@ -1,0 +1,5 @@
+FROM apache/superset
+
+USER root
+RUN uv pip install psycopg2-binary
+USER superset

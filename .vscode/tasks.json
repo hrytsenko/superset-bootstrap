@@ -1,0 +1,29 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Superset: Start",
+            "type": "shell",
+            "command": "docker compose up -d --wait",
+            "options": {
+                "cwd": "."
+            },
+            "presentation": {
+                "panel": "new"
+            },
+            "problemMatcher": []
+        },
+        {
+            "label": "Superset: Stop",
+            "type": "shell",
+            "command": "docker compose down -v",
+            "options": {
+                "cwd": "."
+            },
+            "presentation": {
+                "panel": "new"
+            },
+            "problemMatcher": []
+        }
+    ]
+}
