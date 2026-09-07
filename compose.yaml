@@ -59,7 +59,7 @@ services:
       POSTGRES_USER: ${SA_USERNAME}
       POSTGRES_PASSWORD: ${SA_PASSWORD}
     volumes:
-      - superset-db-volume:/var/lib/postgresql/data
+      - superset-db-volume:/var/lib/postgresql
     healthcheck:
       test: ['CMD-SHELL', "pg_isready -U ${SA_USERNAME}"]
       interval: 5s
@@ -78,7 +78,7 @@ services:
       POSTGRES_PASSWORD: ${SA_PASSWORD}
     volumes:
       - ./dataset:/docker-entrypoint-initdb.d:ro
-      - dataset-db-volume:/var/lib/postgresql/data
+      - dataset-db-volume:/var/lib/postgresql
     healthcheck:
       test: ['CMD-SHELL', "pg_isready -U ${SA_USERNAME}"]
       interval: 5s
