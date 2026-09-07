@@ -1,5 +1,3 @@
-\connect imdb;
-
 CREATE TABLE IF NOT EXISTS movies (
   rank integer not null,
   name text not null,
