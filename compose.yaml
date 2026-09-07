@@ -1,7 +1,7 @@
 name: superset-bootstrap
 
 x-superset-image: &superset-image
-  image: local/superset
+  image: local/superset:6.1.0
   build: ./superset
 x-superset-env: &superset-env
   SUPERSET_CONFIG_PATH: /bootstrap/config.py
@@ -9,7 +9,7 @@ x-superset-env: &superset-env
   SUPERSET_DATASET_DB_URI: postgresql://${SA_USERNAME}:${SA_PASSWORD}@dataset-db:5432/${DATASET_DB}
 
 x-postgres-image: &postgres-image
-  image: postgres
+  image: postgres:18
 
 services:
   # Superset
