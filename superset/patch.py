@@ -1,7 +1,11 @@
 import os
 import re
 import zipfile
+import yaml
 from urllib.parse import urlparse
+
+def yaml_line(key, value):
+    return yaml.safe_dump({key: value}, width=float('inf')).strip()
 
 with zipfile.ZipFile('/bootstrap/dashboards.zip', 'r') as z:
     files = {name: z.read(name) for name in z.namelist()}
@@ -14,7 +18,7 @@ database_filename = next(
 exported_content = files[database_filename].decode('utf-8')
 patched_content = re.sub(
     r'(?m)^sqlalchemy_uri:.*$',
-    f'sqlalchemy_uri: "{database_uri}"',
+    lambda _: yaml_line('sqlalchemy_uri', database_uri),
     exported_content
 )
 files[database_filename] = patched_content.encode('utf-8')
@@ -28,7 +32,7 @@ dataset_filename = next(
 exported_content = files[dataset_filename].decode('utf-8')
 patched_content = re.sub(
     r'(?m)^catalog:.*$',
-    f'catalog: {database_name}',
+    lambda _: yaml_line('catalog', database_name),
     exported_content
 )
 files[dataset_filename] = patched_content.encode('utf-8')
