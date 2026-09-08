@@ -17,14 +17,25 @@
 
 After startup, open Superset at http://localhost:8088/.
 
-Start:
+Start the stack:
 
 ```shell
 docker compose up -d --wait
 ```
 
-Stop:
+Stop the stack:
 
 ```shell
 docker compose down -v
+```
+
+## Checks
+
+The `verify` workflow checks that the bootstrap really works:
+Superset is healthy, the database is patched, the dashboard is imported, and every chart has data.
+
+Run the same checks locally against a started stack:
+
+```shell
+python verify.py
 ```
